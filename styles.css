@@ -1,0 +1,12 @@
+/* HEADER */
+
+.headerNav {
+}
+
+.headerUl {
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+  padding-inline-start: 0;
+
+}
